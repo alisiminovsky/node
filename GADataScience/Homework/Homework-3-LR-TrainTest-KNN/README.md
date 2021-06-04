@@ -1,0 +1,30 @@
+## Data Dictionary for NHL Data:
+
+- Team - Team Name
+- PTS - Points in the Season
+- Rank - Rank at the end of the year
+- TOI - Ignore this column 
+- GF - Goals For
+- GA - Goals Against
+- GF60 - Goals For 60 Mins
+- GA60 - Goals Allowed for 60 Mins
+- GF% - Goals For Percentage 
+- SF - Shots For
+- SA - Shots Against 
+- SF60 - Shots For 60 Mins 
+- SA60 - Shots Against 60 Mins
+- SF% - Shots For Percentage 
+- FF - Fenwick Stat For 
+- FA - Fenwick Stat Against 
+- FF60 - Fenwick Stat For 60 Mins 
+- FA60 - Fenwick Stat Against 60 Mins 
+- FF% - Fenwick Stat For Percentage 
+- CF - Corsi Stat For 
+- CA - Corsi Stat Against 
+- CF60 - Corsi Stat For 60 Mins
+- CA60 - Corsi Stat Against 60 Mins 
+- CF% - Corsi Stat Percentage 
+- Sh% - Shootout Percentage 
+- Sv% - Save Percentage 
+- PDO - Team’s Shooting Percentage + Team’s Save Percentage
+- PIM - Penalty Infraction Minutes
